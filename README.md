@@ -1,2 +1,2 @@
 # get_next_line
-The function read file by lines
+The function reads a file by lines
